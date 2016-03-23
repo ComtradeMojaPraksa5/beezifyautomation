@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4426" started-at="2016-03-23T13:49:33Z" finished-at="2016-03-23T13:49:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4426" started-at="2016-03-23T13:49:33Z" finished-at="2016-03-23T13:49:38Z">
+      <class name="tests.Proba">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.Proba@4563e9ab]" name="SetUp" is-config="true" duration-ms="6371" started-at="2016-03-23T14:49:27Z" finished-at="2016-03-23T14:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="otvoriUserInfo()[pri:0, instance:tests.Proba@4563e9ab]" name="otvoriUserInfo" duration-ms="4414" started-at="2016-03-23T14:49:33Z" finished-at="2016-03-23T14:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otvoriUserInfo -->
+      </class> <!-- tests.Proba -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
